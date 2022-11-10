@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-image: url("SAVE_20220710_244644.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
